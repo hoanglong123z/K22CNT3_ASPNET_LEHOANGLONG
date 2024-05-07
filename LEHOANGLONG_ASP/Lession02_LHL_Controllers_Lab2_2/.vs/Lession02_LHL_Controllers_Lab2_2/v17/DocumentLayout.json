@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22EACE16-1C04-4B90-8F98-DCC5D5F7ADAB}|Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2.csproj|c:\\exercise\\baitapvs\\ls01_lehoanglong\\lehoanglong_asp\\lession02_lhl_controllers_lab2_2\\lession02_lhl_controllers_lab2_2\\views\\lhlproduct\\showproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22EACE16-1C04-4B90-8F98-DCC5D5F7ADAB}|Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2.csproj|solutionrelative:lession02_lhl_controllers_lab2_2\\views\\lhlproduct\\showproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EACE16-1C04-4B90-8F98-DCC5D5F7ADAB}|Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2.csproj|c:\\exercise\\baitapvs\\ls01_lehoanglong\\lehoanglong_asp\\lession02_lhl_controllers_lab2_2\\lession02_lhl_controllers_lab2_2\\views\\lhlproduct\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22EACE16-1C04-4B90-8F98-DCC5D5F7ADAB}|Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2.csproj|solutionrelative:lession02_lhl_controllers_lab2_2\\views\\lhlproduct\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EACE16-1C04-4B90-8F98-DCC5D5F7ADAB}|Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2.csproj|c:\\exercise\\baitapvs\\ls01_lehoanglong\\lehoanglong_asp\\lession02_lhl_controllers_lab2_2\\lession02_lhl_controllers_lab2_2\\views\\lhlproduct\\detailsproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22EACE16-1C04-4B90-8F98-DCC5D5F7ADAB}|Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2.csproj|solutionrelative:lession02_lhl_controllers_lab2_2\\views\\lhlproduct\\detailsproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EACE16-1C04-4B90-8F98-DCC5D5F7ADAB}|Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2.csproj|c:\\exercise\\baitapvs\\ls01_lehoanglong\\lehoanglong_asp\\lession02_lhl_controllers_lab2_2\\lession02_lhl_controllers_lab2_2\\controllers\\lhlproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EACE16-1C04-4B90-8F98-DCC5D5F7ADAB}|Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2.csproj|solutionrelative:lession02_lhl_controllers_lab2_2\\controllers\\lhlproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EACE16-1C04-4B90-8F98-DCC5D5F7ADAB}|Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2.csproj|c:\\exercise\\baitapvs\\ls01_lehoanglong\\lehoanglong_asp\\lession02_lhl_controllers_lab2_2\\lession02_lhl_controllers_lab2_2\\controllers\\lhlhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EACE16-1C04-4B90-8F98-DCC5D5F7ADAB}|Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2.csproj|solutionrelative:lession02_lhl_controllers_lab2_2\\controllers\\lhlhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EACE16-1C04-4B90-8F98-DCC5D5F7ADAB}|Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2.csproj|c:\\exercise\\baitapvs\\ls01_lehoanglong\\lehoanglong_asp\\lession02_lhl_controllers_lab2_2\\lession02_lhl_controllers_lab2_2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EACE16-1C04-4B90-8F98-DCC5D5F7ADAB}|Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2.csproj|solutionrelative:lession02_lhl_controllers_lab2_2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EACE16-1C04-4B90-8F98-DCC5D5F7ADAB}|Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2.csproj|c:\\exercise\\baitapvs\\ls01_lehoanglong\\lehoanglong_asp\\lession02_lhl_controllers_lab2_2\\lession02_lhl_controllers_lab2_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22EACE16-1C04-4B90-8F98-DCC5D5F7ADAB}|Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2.csproj|solutionrelative:lession02_lhl_controllers_lab2_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailsProduct.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2\\Views\\LHLProduct\\DetailsProduct.cshtml",
+              "RelativeDocumentMoniker": "Lession02_LHL_Controllers_Lab2_2\\Views\\LHLProduct\\DetailsProduct.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2\\Views\\LHLProduct\\DetailsProduct.cshtml",
+              "RelativeToolTip": "Lession02_LHL_Controllers_Lab2_2\\Views\\LHLProduct\\DetailsProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T16:10:59.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2\\Views\\LHLProduct\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "Lession02_LHL_Controllers_Lab2_2\\Views\\LHLProduct\\EditProduct.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2\\Views\\LHLProduct\\EditProduct.cshtml",
+              "RelativeToolTip": "Lession02_LHL_Controllers_Lab2_2\\Views\\LHLProduct\\EditProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T16:06:15.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LHLProductController.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2\\Controllers\\LHLProductController.cs",
+              "RelativeDocumentMoniker": "Lession02_LHL_Controllers_Lab2_2\\Controllers\\LHLProductController.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2\\Controllers\\LHLProductController.cs",
+              "RelativeToolTip": "Lession02_LHL_Controllers_Lab2_2\\Controllers\\LHLProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:55:35.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LHLHomeController.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2\\Controllers\\LHLHomeController.cs",
+              "RelativeDocumentMoniker": "Lession02_LHL_Controllers_Lab2_2\\Controllers\\LHLHomeController.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2\\Controllers\\LHLHomeController.cs",
+              "RelativeToolTip": "Lession02_LHL_Controllers_Lab2_2\\Controllers\\LHLHomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:08:12.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Lession02_LHL_Controllers_Lab2_2\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Lession02_LHL_Controllers_Lab2_2\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:08:46.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Showproduct.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2\\Views\\LHLProduct\\Showproduct.cshtml",
+              "RelativeDocumentMoniker": "Lession02_LHL_Controllers_Lab2_2\\Views\\LHLProduct\\Showproduct.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2\\Views\\LHLProduct\\Showproduct.cshtml",
+              "RelativeToolTip": "Lession02_LHL_Controllers_Lab2_2\\Views\\LHLProduct\\Showproduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T15:59:14.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lession02_LHL_Controllers_Lab2_2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_2\\Lession02_LHL_Controllers_Lab2_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lession02_LHL_Controllers_Lab2_2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T16:00:09.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

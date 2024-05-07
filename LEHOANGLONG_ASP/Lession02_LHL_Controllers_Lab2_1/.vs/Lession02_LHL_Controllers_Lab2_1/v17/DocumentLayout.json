@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F89FB9B1-1DC8-4C0A-9A58-006B2091F631}|Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1.csproj|c:\\exercise\\baitapvs\\ls01_lehoanglong\\lehoanglong_asp\\lession02_lhl_controllers_lab2_1\\lession02_lhl_controllers_lab2_1\\views\\lhlmusic\\showmusic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F89FB9B1-1DC8-4C0A-9A58-006B2091F631}|Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1.csproj|solutionrelative:lession02_lhl_controllers_lab2_1\\views\\lhlmusic\\showmusic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89FB9B1-1DC8-4C0A-9A58-006B2091F631}|Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1.csproj|c:\\exercise\\baitapvs\\ls01_lehoanglong\\lehoanglong_asp\\lession02_lhl_controllers_lab2_1\\lession02_lhl_controllers_lab2_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F89FB9B1-1DC8-4C0A-9A58-006B2091F631}|Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1.csproj|solutionrelative:lession02_lhl_controllers_lab2_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89FB9B1-1DC8-4C0A-9A58-006B2091F631}|Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1.csproj|c:\\exercise\\baitapvs\\ls01_lehoanglong\\lehoanglong_asp\\lession02_lhl_controllers_lab2_1\\lession02_lhl_controllers_lab2_1\\views\\lhlmusic\\downloadmusic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F89FB9B1-1DC8-4C0A-9A58-006B2091F631}|Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1.csproj|solutionrelative:lession02_lhl_controllers_lab2_1\\views\\lhlmusic\\downloadmusic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89FB9B1-1DC8-4C0A-9A58-006B2091F631}|Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1.csproj|c:\\exercise\\baitapvs\\ls01_lehoanglong\\lehoanglong_asp\\lession02_lhl_controllers_lab2_1\\lession02_lhl_controllers_lab2_1\\controllers\\lhlmusiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89FB9B1-1DC8-4C0A-9A58-006B2091F631}|Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1.csproj|solutionrelative:lession02_lhl_controllers_lab2_1\\controllers\\lhlmusiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89FB9B1-1DC8-4C0A-9A58-006B2091F631}|Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1.csproj|c:\\exercise\\baitapvs\\ls01_lehoanglong\\lehoanglong_asp\\lession02_lhl_controllers_lab2_1\\lession02_lhl_controllers_lab2_1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89FB9B1-1DC8-4C0A-9A58-006B2091F631}|Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1.csproj|solutionrelative:lession02_lhl_controllers_lab2_1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89FB9B1-1DC8-4C0A-9A58-006B2091F631}|Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1.csproj|c:\\exercise\\baitapvs\\ls01_lehoanglong\\lehoanglong_asp\\lession02_lhl_controllers_lab2_1\\lession02_lhl_controllers_lab2_1\\controllers\\lhlhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89FB9B1-1DC8-4C0A-9A58-006B2091F631}|Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1.csproj|solutionrelative:lession02_lhl_controllers_lab2_1\\controllers\\lhlhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DownloadMusic.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1\\Views\\LHLMusic\\DownloadMusic.cshtml",
+              "RelativeDocumentMoniker": "Lession02_LHL_Controllers_Lab2_1\\Views\\LHLMusic\\DownloadMusic.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1\\Views\\LHLMusic\\DownloadMusic.cshtml",
+              "RelativeToolTip": "Lession02_LHL_Controllers_Lab2_1\\Views\\LHLMusic\\DownloadMusic.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T16:55:46.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowMusic.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1\\Views\\LHLMusic\\ShowMusic.cshtml",
+              "RelativeDocumentMoniker": "Lession02_LHL_Controllers_Lab2_1\\Views\\LHLMusic\\ShowMusic.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1\\Views\\LHLMusic\\ShowMusic.cshtml",
+              "RelativeToolTip": "Lession02_LHL_Controllers_Lab2_1\\Views\\LHLMusic\\ShowMusic.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T16:30:01.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lession02_LHL_Controllers_Lab2_1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lession02_LHL_Controllers_Lab2_1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T16:26:02.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Lession02_LHL_Controllers_Lab2_1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Lession02_LHL_Controllers_Lab2_1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:25:52.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LHLHomeController.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1\\Controllers\\LHLHomeController.cs",
+              "RelativeDocumentMoniker": "Lession02_LHL_Controllers_Lab2_1\\Controllers\\LHLHomeController.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1\\Controllers\\LHLHomeController.cs",
+              "RelativeToolTip": "Lession02_LHL_Controllers_Lab2_1\\Controllers\\LHLHomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:25:39.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LHLMusicController.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1\\Controllers\\LHLMusicController.cs",
+              "RelativeDocumentMoniker": "Lession02_LHL_Controllers_Lab2_1\\Controllers\\LHLMusicController.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS01_lehoanglong\\LEHOANGLONG_ASP\\Lession02_LHL_Controllers_Lab2_1\\Lession02_LHL_Controllers_Lab2_1\\Controllers\\LHLMusicController.cs",
+              "RelativeToolTip": "Lession02_LHL_Controllers_Lab2_1\\Controllers\\LHLMusicController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:21:57.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

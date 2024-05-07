@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "AddStudent";
+}
+
+<h2>Form</h2>
+@{Html.BeginForm("Insert", "LHLStudent");}
+@Html.Label("Mã Sinh Viên");
+@Html.TextBox("Họ Tên","Long Long");
+
+@{Html.EndForm();}
+
+@{ 
+    int[] names = { 10, 30, 20, 31, 41 };
+}
+@foreach (var item in names)
+            {
+                <li>@item</li>
+            }
